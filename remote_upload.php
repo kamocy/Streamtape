@@ -2,7 +2,7 @@
 
 $login = '';
 $key = '';
-$urls = '';
+$url = '';
 
 	$curl = curl_init();
 	$opts = [
